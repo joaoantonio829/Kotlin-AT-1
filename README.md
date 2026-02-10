@@ -28,12 +28,12 @@ fun main() {
     println("Classificação: $classificacao")
 
 }
-
-### 2- Atividade sobre a construtora 👷‍♂️
-
-#### Questao A ⏹️:
-
 ```
+## 2- Atividade sobre a construtora 👷‍♂️
+
+### Questao A ⏹️:
+
+```Kotlin
 fun main(){
     
     val comprimento = readln().toDouble()
@@ -45,9 +45,9 @@ fun main(){
 }
 ```
 
-#### Questão B 👌:
+### Questão B 👌:
 
-```
+```Kotlin
 fun main(){
     
     val comprimento = readln().toDouble()
@@ -71,9 +71,9 @@ fun main(){
 }
 ```
 
-#### Questão C 👷‍♂️:
+### Questão C 👷‍♂️:
 
-```
+```Kotlin
 fun main(){
     
     val comprimento = readln().toDouble()
@@ -95,9 +95,9 @@ fun main(){
 }
 ```
 
-#### Questão D ➕:
+### Questão D ➕:
 
-```
+```Kotlin
 fun main(){
    
     val comprimento = readln().toDouble()
@@ -125,8 +125,8 @@ fun main(){
 ```
 
 
-#### Questão E 🤓:
-```
+### Questão E 🤓:
+```Kotlin
 fun main(){
     
     val comprimento = readln().toDouble()
@@ -159,8 +159,9 @@ fun main(){
     println("Valor total da mao de obra: " + valor_trabalho)
     println("o Valor total é: " + valor_total)
     println("O lucro para a empresa: " + lucro)
-    
+
+ }
 
 ```
-}
+
 
